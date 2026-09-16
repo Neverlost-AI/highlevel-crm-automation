@@ -76,7 +76,7 @@ The final test opportunity reached **Won** with:
 - Opportunity value: `$5,000`
 - Contact/opportunity data: synthetic demo data
 
-![Home Services Lead Pipeline](docs/home-services-lead-pipeline.png)
+A final-state pipeline screenshot was captured during live verification; the verified behavior and evidence boundary are documented in [`docs/verification.md`](docs/verification.md).
 
 ## Architecture
 
